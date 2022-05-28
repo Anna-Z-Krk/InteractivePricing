@@ -1,6 +1,8 @@
 # interactive_pricing
-This is interactive pricing page from www.frontendmentor.io challange page for frontend developers. It was created to look like target desing (jpg files) and work according to description.  I am adding first version by now, becouse I see there should be some elements changed to work more properly. I am consciour it can be created in a better way.  \
-\
-I've used here BEM + CSS (SASS: scss), HTML, JS and tools like VSCode, PerfectPicel for Chrome.  \
-\
-View the page at: https://anna-z-krk.github.io/interactive_pricing/
+This is an interactive pricing page from the challenges page www.frontplementor.io for frontend developers. It was created to look like the target project (jpg files) and to function as described./
+/
+I am now adding the first version because I can see that some elements should be changed to make them work more correctly. I am aware that it can be created better./
+/
+/
+
+Here I used BEM + CSS (SASS: scss), HTML, JS and tools such as VSCode, PerfectPicel for Chrome.
