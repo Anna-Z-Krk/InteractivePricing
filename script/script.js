@@ -65,6 +65,12 @@ const progressBar = () => {
     }
   }
 };
+
+const discount = () => {
+  progressBar();
+};
+
+timeSlider.addEventListener("change", discount);
 // const discount = () => {
 //   if ((timeSlider.checked == true)) {
 //     price.innerHTML * 0.75;
@@ -88,6 +94,7 @@ const progressBar = () => {
 // console.log(sliderInput.value);
 // console.log(price.innerHTML * 0.75);
 // console.log(timeSlider.checked);
+
 sliderInput.addEventListener("input", progressBar);
 
 btnStartTrial.addEventListener("click", function () {
