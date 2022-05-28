@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="The layout of this page comes from https://www.frontendmentor.io/. It's part of challenge. Level: junior."
+    />
+    <meta name="author" content="https://github.com/Anna-Z-Krk" />
+    <meta name="robots" content="noindex,nofollow" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Interactive pricing component</title>
+  </head>
+
+  <body>
+    <main class="main">
+      <header class="header">
+        <img
+          src="/images/pattern-circles.svg"
+          alt="background circles"
+          class="header__img-circle"
+        />
+        <img
+          src="/images/bg-pattern.svg"
+          alt="backgound pattern"
+          class="header__img-bg"
+        />
+        <hgroup>
+          <h1 class="header__title">Simple, traffic-based pricing</h1>
+          <h2 class="header__subtitle">
+            Sign-up for our 30-day trial. No credit card required.
+          </h2>
+        </hgroup>
+      </header>
+
+      <div class="main-panel">
+        <div class="top">
+          <span class="top__pageviews-amount"
+            ><span class="top__pageviews-amount-no">100k</span> Pageviews</span
+          >
+          <!-- SLIDER FROM YT -->
+          <div class="top__slider">
+            <input
+              type="range"
+              min="1"
+              max="5"
+              value="3"
+              id="slider"
+              class="top__slider-input"
+            />
+            <div id="progressBar" class="top__slider-progressbar"></div>
+          </div>
+          <!-- SLIDER FROM YT ends-->
+          <div class="top__price">
+            <span class="top__price-per-month">
+              <span class="top__price-per-month-no"
+                >$<span id="price">16.00 </span></span
+              ></span
+            ><span class="top__price-per-month-mth">/ month</span>
+          </div>
+
+          <div class="top__time">
+            <span class="top__time-mth">Monthly Billing</span>
+
+            <label class="top__time-slider">
+              <input type="checkbox" class="top__time-slider-chackbox" />
+              <span class="top__time-slider-dot"></span>
+            </label>
+
+            <span class="top__time-yr">Yearly Billing</span>
+            <span class="top__time-discount"
+              >25% <span class="top__time-discount-txt"> discount</span></span
+            >
+          </div>
+        </div>
+
+        <hr class="divider" />
+
+        <div class="bottom">
+          <ul class="bottom__list">
+            <li>
+              <img
+                class="bottom__list-checked"
+                src="/images/icon-check.svg"
+                alt="checked ikon"
+              />
+              Unlimited websites
+            </li>
+            <li>
+              <img
+                class="bottom__list-checked"
+                src="/images/icon-check.svg"
+                alt="checked ikon"
+              />
+              100% data ownership
+            </li>
+            <li>
+              <img
+                class="bottom__list-checked"
+                src="/images/icon-check.svg"
+                alt="checked ikon"
+              />
+              Email reports
+            </li>
+          </ul>
+          <button class="bottom__btn">Start my trial</button>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <div class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by <a href="#">Anna</a>.
+      </div>
+    </footer>
+    <script src="script/script.js"></script>
+  </body>
+</html>
