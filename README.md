@@ -3,7 +3,7 @@ This is an interactive pricing page from the challenges page www.frontplementor.
 /
 I am now adding the first version because I can see that some elements should be changed to make them work more correctly. I am aware that it can be created better.  /
 /
-/
+
 
 Here I used BEM + CSS (SASS: scss), HTML, JS and tools such as VSCode, PerfectPicel for Chrome.  
 
