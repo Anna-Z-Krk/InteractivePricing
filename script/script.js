@@ -71,13 +71,6 @@ const discount = () => {
 };
 
 timeSlider.addEventListener("change", discount);
-// const discount = () => {
-//   if ((timeSlider.checked == true)) {
-//     price.innerHTML * 0.75;
-//   } else {
-//     price.innerHTML;
-//   }
-// };
 
 // for (let i = 0; i < 5; i++) {
 //   if ((timeSlider.checked = false)) {
@@ -104,10 +97,3 @@ btnStartTrial.addEventListener("click", function () {
     alert("If you decide to do so, come back here. You are always welcome!");
   }
 });
-
-// slider.oninput = function () {
-//   selector.style.left = this.value;
-//   progressBar.style.width = this.value;
-// };
-
-// console.log(progressBar.value);
