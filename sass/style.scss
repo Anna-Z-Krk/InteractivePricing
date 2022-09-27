@@ -256,12 +256,17 @@ li {
     &__btn:active {
       color: white;
     }
+    &__list-checked {
+      width: 10px;
+      height: 10px;
+    }
   }
 }
 
 footer {
+  display: block;
   opacity: 0.5;
-  position: absolute;
+  position: relative;
   width: 100%;
   bottom: 12px;
   z-index: 0;
@@ -384,5 +389,11 @@ footer {
         margin-right: 120px;
       }
     }
+  }
+}
+
+@media (max-height: 720px) {
+  footer {
+    display: none;
   }
 }
