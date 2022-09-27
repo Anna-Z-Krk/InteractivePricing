@@ -6,4 +6,4 @@ I am aware that it can be created better.
 
 Here I used BEM + CSS (SASS: scss), HTML, JS and tools such as VSCode, PerfectPixel for Chrome.  
 
-The link you can find here: https://anna-z-krk.github.io/interactive_pricing/
+The link you can find here: https://anna-z-krk.github.io/Interactive-Pricing/
