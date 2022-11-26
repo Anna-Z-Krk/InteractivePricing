@@ -1,5 +1,7 @@
 # Interactive Pricing
 
+Responsive panel of pricing with discount and slider
+
 You can view it here: https://anna-z-krk.github.io/Interactive-Pricing/
 
 AIM OF THE PROJECT:
