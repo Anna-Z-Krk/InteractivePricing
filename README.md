@@ -1,8 +1,19 @@
 # Interactive Pricing
-This is an Interactive Pricing page from the challenges page www.frontendmentor.io for Frontend Developers. It was created to look like the target project (jpg files) and to function as described.  
 
-I am aware that it can be created better way. I am practising and learning this way.
+You can view it here: https://anna-z-krk.github.io/Interactive-Pricing/
 
-Here I used BEM + CSS (SASS: scss), HTML, JS and tools such as VSCode, PerfectPixel and checked with Lighthouse for Chrome.  
+AIM OF THE PROJECT:
+- creating code which reprent perfectly the look of target jpg files (here used PerfectPixel plugin for Chrome)
+- coding according to description attached to the challenge building realistic project
+- creating somethig from the beganinng by myself and learning new things (from Internet ;-) )
 
-The link you can find here: https://anna-z-krk.github.io/Interactive-Pricing/
+USED IN THIS PROJECT:
+- Visual Studio Code
+- PerfectPixel for Chrome
+- checked with Lighthouse plugin for Chrome
+- HTML5, CSS3 (BEM + SASS)
+
+SOURCE OF THE PROJECT LAYOUT:
+https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8
+  
+
