@@ -2,6 +2,8 @@
 
 ## Responsive panel of pricing with discount and slider
 
+![Preview:](https://github.com/Anna-Z-Krk/InteractivePricing/blob/main/interactive_pricing_prew.jpg)
+
 You can view it here: https://anna-z-krk.github.io/InteractivePricing/
 
 AIM OF THE PROJECT:
@@ -19,5 +21,5 @@ USED IN THIS PROJECT:
 SOURCE OF THE PROJECT LAYOUT:
 https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8
   
-Preview:
-![Preview:](https://github.com/Anna-Z-Krk/InteractivePricing/blob/main/interactive_pricing_prew.jpg)
+
+
