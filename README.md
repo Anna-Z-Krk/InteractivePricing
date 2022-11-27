@@ -20,4 +20,4 @@ SOURCE OF THE PROJECT LAYOUT:
 https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8
   
 Preview:
-![https://github.com/Anna-Z-Krk/InteractivePricing/blob/main/interactive_pricing_prew.jpg]
+!(https://github.com/Anna-Z-Krk/InteractivePricing/blob/main/interactive_pricing_prew.jpg)
