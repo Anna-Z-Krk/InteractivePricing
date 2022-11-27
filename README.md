@@ -6,6 +6,7 @@ You can view it here: https://anna-z-krk.github.io/InteractivePricing/
 
 AIM OF THE PROJECT:
 - building out interactive pricing component and get it looking as close to the design as possible (here used PerfectPixel plugin for Chrome)
+- working with documentation/description of the challenge
 - coding according to description attached to the challenge building realistic project
 - creating somethig from the beganinng by myself and learning new things (from Internet ;-) )
 
