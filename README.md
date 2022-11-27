@@ -4,7 +4,9 @@
 
 ![Preview:](https://github.com/Anna-Z-Krk/InteractivePricing/blob/main/interactive_pricing_prew.jpg)
 
-You can view it here: https://anna-z-krk.github.io/InteractivePricing/
+
+
+### You can view it here: https://anna-z-krk.github.io/InteractivePricing/
 
 AIM OF THE PROJECT:
 - building out interactive pricing component and get it looking as close to the design as possible (here used PerfectPixel plugin for Chrome)
