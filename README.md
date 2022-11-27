@@ -1,6 +1,6 @@
 # Interactive Pricing
 
-Responsive panel of pricing with discount and slider
+## Responsive panel of pricing with discount and slider
 
 You can view it here: https://anna-z-krk.github.io/InteractivePricing/
 
