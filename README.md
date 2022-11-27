@@ -2,7 +2,7 @@
 
 Responsive panel of pricing with discount and slider
 
-You can view it here: https://anna-z-krk.github.io/Interactive-Pricing/
+You can view it here: https://anna-z-krk.github.io/InteractivePricing/
 
 AIM OF THE PROJECT:
 - building out interactive pricing component and get it looking as close to the design as possible (here used PerfectPixel plugin for Chrome)
