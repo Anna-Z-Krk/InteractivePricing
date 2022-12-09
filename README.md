@@ -1,6 +1,6 @@
 # InteractivePricing
 
-## This is Interactive Pricing page from www.frontendmentor.io Challange page. It was created to look like target desing (jpg files) and works according to description.
+## Check the discount
 
 ![Preview:](https://github.com/Anna-Z-Krk/InteractivePricing/blob/main/interactive_pricing_prew.jpg)
 
