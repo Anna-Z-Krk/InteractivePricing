@@ -1,22 +1,24 @@
-# Interactive Pricing
+# InteractivePricing
 
-## Responsive panel of pricing with discount and slider
+## This is Interactive Pricing page from www.frontendmentor.io Challange page. It was created to look like target desing (jpg files) and works according to description.
 
-![Preview:](https://github.com/Anna-Z-Krk/diamondCMS/blob/main/CMS_preview.png)
+![Preview:](https://github.com/Anna-Z-Krk/InteractivePricing/blob/main/interactive_pricing_prew.jpg)
 
 
-**You can view it here:** https://anna-z-krk.github.io/diamondCMS/
+
+**You can view it here:** https://anna-z-krk.github.io/InteractivePricing/
 
 ### AIM OF THE PROJECT:
-- creating something different to standad web page
-
+- building out interactive pricing component and get it looking as close to the design as possible (here used PerfectPixel plugin for Chrome)
+- working with documentation/description of the challenge
+- coding according to description attached to the challenge building realistic project
+- creating somethig from the beganinng by myself and learning new things (from Internet ;-) )
 
 ### USED IN THIS PROJECT:
 - Visual Studio Code
-- Boostrmp
-- HTML5, CSS3, JS
+- PerfectPixel for Chrome
+- checked with Lighthouse plugin for Chrome
+- HTML5, CSS3 (BEM + SASS)
 
-FROM COURSE BY MMCSCHOOL.
-  
-
-
+SOURCE OF THE PROJECT LAYOUT:
+https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8
